@@ -1,0 +1,14 @@
+test
+runMain reductions.ParallelCountChangeRunner
+test
+runMain reductions.ParallelParenthesesBalancingRunner
+test
+runMain reductions.LineOfSightRunner
+submit gevorgmartirosyan97@gmail.com 6dI93IZnnGZpv1CA
+test
+runMain reductions.LineOfSightRunner
+submit gevorgmartirosyan97@gmail.com 6dI93IZnnGZpv1CA
+submit gevorgmartirosyan97@gmail.com 6w7lyxEWTzB41fU3
+test
+runMain reductions.LineOfSightRunner
+submit gevorgmartirosyan97@gmail.com FLUz0cRBIeIwzJov
